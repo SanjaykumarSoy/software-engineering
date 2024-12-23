@@ -1,0 +1,6 @@
+1. git clone https://github.com/YOUR_USERNAME/REPOSITORY_NAME.git
+2. cd REPOSITORY_NAME
+3. git checkout -b FEATURE_NAME
+4.git add .
+5. git commit -m "Descriptive message about your changes"
+6. git push origin FEATURE_NAME
