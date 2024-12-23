@@ -1,0 +1,11 @@
+1.git clone <repository_url>
+2. cd <repository_name>
+3. git checkout -b <feature_branch_name>
+4. git add .
+5. git commit -m "Your commit message"
+6. git push origin <feature_branch_name>
+7. git checkout main
+8. git pull origin main
+9. git checkout <feature_branch_name>
+10. git commit -m "Merged main and resolved conflicts"
+11. git push origin <feature_branch_name>
